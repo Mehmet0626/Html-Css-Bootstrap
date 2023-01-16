@@ -19,7 +19,7 @@ body{
    
 }
 .menu li:hover a{
-   
+   font-size: 200%;
     color: white;
 }
 
